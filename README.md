@@ -1,5 +1,4 @@
 # Titanic-EDA
-
 1.Dropped irrelevant columns (PassengerId, Name, Ticket, Fare, Cabin, Embarked).
 Handled missing values by filling Age with a constant value (29).
 
